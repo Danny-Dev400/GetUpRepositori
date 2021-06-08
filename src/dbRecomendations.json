@@ -1,0 +1,37 @@
+[
+    {
+        "image": "https://image.freepik.com/foto-gratis/empresaria-relajando-musculos-despues-terminar-trabajo_1163-4292.jpg",
+        "name": "Estiramientos",
+        "type": "EJRapidos"
+    },
+    {
+        "image": "https://i.blogs.es/c52716/istock-1070262152/840_560.jpeg",
+        "name": "A mover el cuerpo",
+        "type": "EJRapidos"
+    },
+    {
+        "image": "https://bolavip.com/export/sites/bolavip/img/2019/12/04/abdominales_crop1575496634315.jpg_1029256313.jpg",
+        "name": "Ejercicios Basicos",
+        "type": "EJRapidos"
+    },
+    {
+        "image": "https://migymencasa.com/wp-content/uploads/2017/02/curso-burpees.jpg",
+        "name": "Salta y diviertete",
+        "type": "EJRapidos"
+    },
+    {
+        "image": "https://worldhealthdesign.com//wp-content/uploads/2018/10/yoga-en-casa-beneficios-istock.jpg",
+        "name": "Yoga",
+        "type": "EJSujeridos"
+    },
+    {
+        "image": "https://www.65ymas.com/uploads/s1/33/72/43/pilates-en-casa-con-esto-ejercicios-basicos-puedes-empezar.jpeg",
+        "name": "Pilates",
+        "type": "EJSujeridos"
+    },
+    {
+        "image": "https://as.com/masdeporte/imagenes/2020/04/04/videos/1586029907_946828_1586030219_noticia_normal.jpg",
+        "name": "Boxeo",
+        "type": "EJSujeridos"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "idExercise": 1,
+        "name": "Hundred",
+        "type": "pilates",
+        "attributes": ["Mejora la circulacion","Aumento de resistencia","Marca Abdomen"],
+        "descripcion":"Es un ejercicio que se utiliza en Pilates clásico con mat. Se suele introducir al principio de la rutina para entrar en calor, activar nuestro abdomen y poner en marcha nuestro sistema respiratorio, sin olvidar la elegancia característica de esta disciplina. Su nombre hace referencia a las batidas de brazos que hay que hacer durante su ejecución.",
+        "img":"https://image.freepik.com/foto-gratis/alegre-joven-atractiva-mujer-morena-pelo-largo-peinado-cola-caballo-haciendo-ejercicios-estiramiento-sonriendo-felizmente-al-frente-aislado-sobre-pared-blanca_295783-10918.jpg"
+    },
+    {
+        "idExercise": 2,
+        "name": "Roll Up",
+        "type": "pilates",
+        "attributes": ["Mejora la circulacion","Aumento de resistencia","Marca Abdomen"],
+        "descripcion":"Otro de los ejercicios básicos de Pilates clásico. Con este ejercicio principalmente fortalecemos el abdomen, ganamos movilidad en la columna y estabilizamos la zona lumbar. 💫 Sin duda es uno de los ejercicios que no puede faltar en las clases y, por ello, en Osteon lo trabajamos a distintos niveles para que todos los alumnos se beneficien de él.",
+        "img":"https://image.freepik.com/foto-gratis/alegre-joven-atractiva-mujer-morena-pelo-largo-peinado-cola-caballo-haciendo-ejercicios-estiramiento-sonriendo-felizmente-al-frente-aislado-sobre-pared-blanca_295783-10918.jpg"
+    },
+    {
+        "idExercise": 3,
+        "name": "Roll Over",
+        "type": "pilates",
+        "attributes": ["Mejora la circulacion","Aumento de resistencia","Marca Abdomen"],
+        "descripcion":"Es un ejercicio de Pilates de nivel avanzado para controlar y trabajar la flexibilidad de la columna vertebral. El mayor reto del roll over es mantener la elongación axial desde sacro a coronilla, sacando la fuerza del centro (abdomen) para llevar las piernas hacia atrás, sin forzar el cuello ni los brazos.",
+        "img":"https://image.freepik.com/foto-gratis/alegre-joven-atractiva-mujer-morena-pelo-largo-peinado-cola-caballo-haciendo-ejercicios-estiramiento-sonriendo-felizmente-al-frente-aislado-sobre-pared-blanca_295783-10918.jpg"
+    },
+    {
+        "idExercise": 4,
+        "name": "Rolling Back",
+        "type": "pilates",
+        "attributes": ["Mejora la circulacion","Aumento de resistencia","Marca Abdomen"],
+        "descripcion":"Es un ejercicio que se utiliza en Pilates clásico con mat. Se suele introducir al principio de la rutina para entrar en calor, activar nuestro abdomen y poner en marcha nuestro sistema respiratorio, sin olvidar la elegancia característica de esta disciplina. Su nombre hace referencia a las batidas de brazos que hay que hacer durante su ejecución.",
+        "img":"https://image.freepik.com/foto-gratis/alegre-joven-atractiva-mujer-morena-pelo-largo-peinado-cola-caballo-haciendo-ejercicios-estiramiento-sonriendo-felizmente-al-frente-aislado-sobre-pared-blanca_295783-10918.jpg"
+    }
+]
